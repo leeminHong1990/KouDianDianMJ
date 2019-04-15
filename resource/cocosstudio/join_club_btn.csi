@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="join_club_btn" Type="Plist" ID="24d197ba-8de5-4dd1-b4c1-54a40c9ec1ce" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="joinClubBtn/join_club_btn_1.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_10.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_2.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_3.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_4.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_5.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_6.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_7.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_8.png" />
+      <FilePathData Path="joinClubBtn/join_club_btn_9.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

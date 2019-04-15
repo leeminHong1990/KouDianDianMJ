@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>joinClubBtn/join_club_btn_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{117,143},{1,1}}</string>
+				<key>offset</key>
+				<string>{153,-116}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{120,143},{1,1}}</string>
+				<key>offset</key>
+				<string>{153,-116}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,1},{69,109}}</string>
+				<key>offset</key>
+				<string>{-52,38}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{226,1},{92,120}}</string>
+				<key>offset</key>
+				<string>{-40,34}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{117,1},{107,140}}</string>
+				<key>offset</key>
+				<string>{-27,25}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,147},{106,146}}</string>
+				<key>offset</key>
+				<string>{-9,22}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{114,144}}</string>
+				<key>offset</key>
+				<string>{4,21}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,143},{109,135}}</string>
+				<key>offset</key>
+				<string>{21,18}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{286,123},{81,121}}</string>
+				<key>offset</key>
+				<string>{36,16}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+			<key>joinClubBtn/join_club_btn_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{369,112},{65,111}}</string>
+				<key>offset</key>
+				<string>{44,11}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,234}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>join_club_btn.png</string>
+			<key>realTextureFileName</key>
+			<string>join_club_btn.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

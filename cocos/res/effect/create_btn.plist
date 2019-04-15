@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>createBtn/create_btn_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{655,799},{361,143}}</string>
+				<key>offset</key>
+				<string>{82,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{730,1},{364,142}}</string>
+				<key>offset</key>
+				<string>{84,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,1},{362,143}}</string>
+				<key>offset</key>
+				<string>{82,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{363,143}}</string>
+				<key>offset</key>
+				<string>{81,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{874,1},{364,142}}</string>
+				<key>offset</key>
+				<string>{81,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,146},{364,142}}</string>
+				<key>offset</key>
+				<string>{81,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,723},{363,142}}</string>
+				<key>offset</key>
+				<string>{80,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,867},{363,142}}</string>
+				<key>offset</key>
+				<string>{80,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,878},{363,142}}</string>
+				<key>offset</key>
+				<string>{80,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{367,146},{364,142}}</string>
+				<key>offset</key>
+				<string>{81,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{511,146},{364,142}}</string>
+				<key>offset</key>
+				<string>{81,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,578},{361,143}}</string>
+				<key>offset</key>
+				<string>{82,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_20.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{510,878},{363,142}}</string>
+				<key>offset</key>
+				<string>{81,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{655,367},{364,142}}</string>
+				<key>offset</key>
+				<string>{84,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{655,511},{364,142}}</string>
+				<key>offset</key>
+				<string>{84,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,290},{364,142}}</string>
+				<key>offset</key>
+				<string>{84,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,434},{364,142}}</string>
+				<key>offset</key>
+				<string>{84,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{367,512},{364,142}}</string>
+				<key>offset</key>
+				<string>{84,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{511,512},{364,142}}</string>
+				<key>offset</key>
+				<string>{84,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+			<key>createBtn/create_btn_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{655,655},{364,142}}</string>
+				<key>offset</key>
+				<string>{84,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{580,166}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>create_btn.png</string>
+			<key>realTextureFileName</key>
+			<string>create_btn.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>
